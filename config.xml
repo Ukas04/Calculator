@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.stmik-wp.calculator" 
+    versionCode = "10"
+    version     = "1.0.0" >
+ 
+  <!-- versionCode is optional and Android only -->
+ 
+  <name>Kalkulator App</name>
+ 
+  <description>
+      Contoh Aplikasi Kalkulator.
+  </description>
+ 
+  <author href="https://stmik-wp.ac.id" email="syahukasyah@gmail.com">
+      Ukasyah
+  </author>
+ 
+</widget>
